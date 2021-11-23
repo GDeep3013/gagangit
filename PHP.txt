@@ -1,0 +1,61 @@
+Hi there,
+
+I habe gone through your requirements So I can help with that and start right away.  
+
+**Are you free during this week to talk briefly? Let me know what time works best for you.**
+
+Coming back to my experience, I have been working as a full-stack developer for the last 8+ years in which I have developed and maintained eCommerce portals and Web applications(SAAS) 
+
+My Skills:
+
+# Web development: HTML, CSS, Bootstrap, PHP with open source: Laravel, Codeigniter,Yii, and CakePHP.
+# APIs development (REST, JSON and XML) and integration of any 3rd party tools.
+
+Please feel free to discuss this position further. 
+
+Kind Regards
+
+
+============================================
+
+Angular and PHP
+https://www.scholarbees.com/
+
+
+Zend PHP Framework Examples:
+
+https://www.apptivo.com/
+http://snapstudioplus.com/
+http://suplemengym.com/
+
+
+I have created several applications for WMS system and integrated several with WMS system with Shopify and Woo Commerce. Few of them are available at below links:
+
+- https://deposco.com/
+- https://bnidistribution.com/
+- https://realtruck.com/
+
+
+Case Study PHP:
+
+1. Describe your recent experience with similar projects
+Recently I have created an Chrome Extensions with JS for scraping the products from twelve different websites. I have attached the code of extension with this proposal for your review. I have scrapped the below website:
+
+1.darty.com
+2.ubaldi.com
+3.vente-unique.com
+4.conforama.fr
+5.allobebe.fr
+6.leroymerlin.fr
+7.kiabi.com
+8.tikamoon.com
+9.manomano.fr
+10.zalando.fr
+11.amazon.fr
+12.cdiscount.com (partially done)
+13.laredoute.
+14.veepee.fr
+
+Scrapped data was saved in the MySQL DB where I have also created the Web application using the Laravel framework for my client
+
+Source code - git@github.com:GDeep3013/eCommerce-product-scrapping-chrome-extension.-.git
